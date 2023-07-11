@@ -16,6 +16,42 @@
      <ENTRY>Calculator</ENTRY>
      <LENGTH>10</LENGTH>
     </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_BOL</KEY>
+     <ENTRY>Bölme</ENTRY>
+     <LENGTH>13</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_CARP</KEY>
+     <ENTRY>Çarpma</ENTRY>
+     <LENGTH>14</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_CIKAR</KEY>
+     <ENTRY>Çıkarma</ENTRY>
+     <LENGTH>15</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_TOPLA</KEY>
+     <ENTRY>Toplama</ENTRY>
+     <LENGTH>15</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_VAL1</KEY>
+     <ENTRY>1. Değer</ENTRY>
+     <LENGTH>16</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_VAL2</KEY>
+     <ENTRY>2. Değer</ENTRY>
+     <LENGTH>16</LENGTH>
+    </item>
    </TPOOL>
   </asx:values>
  </asx:abap>

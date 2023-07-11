@@ -16,9 +16,9 @@ SELECTION-SCREEN BEGIN OF BLOCK b2 WITH FRAME TITLE TEXT-002.
               p_carp  RADIOBUTTON GROUP g1,
               p_bol   RADIOBUTTON GROUP g1.
 SELECTION-SCREEN END OF BLOCK b2.
-
-
 START-OF-SELECTION.
+
+
 
 IF p_topla = 'X'.
   DATA(lv_toplama) = p_val1 + p_val2.
@@ -38,5 +38,4 @@ ELSEIF p_bol = 'X'.
   cl_demo_output=>write( lv_bolme ).
   ENDIF.
 ENDIF.
-
 cl_demo_output=>display(  ).
