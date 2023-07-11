@@ -5,4 +5,5 @@
 *&---------------------------------------------------------------------*
 REPORT zot_17_hello_world.
 
-WRITE 'Hello World'.
+cl_demo_output=>write( 'Hello world' ).
+cl_demo_output=>display(  ).
